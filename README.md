@@ -7,8 +7,9 @@ Asegúrate de tener instalada la biblioteca Pygame antes de ejecutar el juego. P
 pip install pygame
 
 ## Controles
-Haz clic con el botón izquierdo del ratón para interactuar con el juego.
-Funcionalidad del programa
+Haz clic con el botón izquierdo del ratón para interactuar con el juego (Iniciar o reinicar el juego).
+
+#Funcionalidad del programa
 El código del juego consta de las siguientes partes:
 
 ## Configuración de la Pantalla
