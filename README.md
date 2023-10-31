@@ -9,9 +9,10 @@ El código del juego consta de las siguientes partes:
 Se establece el tamaño de la ventana del juego y se configuran los colores y fuentes utilizados.
 
 ## Clases
-### Jugador: Representa al círculo controlado por el jugador. Puedes moverlo con el ratón y tu objetivo es evitar a los enemigos y recolectar triángulos verdes para ganar puntos.
-### Enemigo: Representa a los cuadrados rojos que se mueven aleatoriamente por la pantalla.
-### Triangulo: Representa a los triángulos verdes que aparecen en la pantalla.
+* Jugador: Representa al círculo controlado por el jugador. Puedes moverlo con el ratón y tu objetivo es evitar a los enemigos y recolectar triángulos verdes para ganar puntos.
+* Enemigo: Representa a los cuadrados rojos que se mueven aleatoriamente por la pantalla.
+* Triangulo: Representa a los triángulos verdes que aparecen en la pantalla.
+  
 ## Funciones para mostrar texto
 Se proporcionan funciones (mostrar_texto) para simplificar la renderización de texto en la pantalla.
 
