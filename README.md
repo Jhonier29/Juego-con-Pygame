@@ -1,5 +1,11 @@
 # Juego-con-Pygame
 "Esquivar Enemigos" es un juego simple desarrollado en Python utilizando la biblioteca Pygame. El objetivo del juego es mover un círculo (el jugador) con el mouse y evitar colisionar con cuadrados rojos (enemigos) mientras recoges triángulos verdes dando click en ellos para aumentar tu puntuación.
+
+## Requisitos
+Asegúrate de tener instalada la biblioteca Pygame antes de ejecutar el juego. Puedes instalarla utilizando pip:
+
+pip install pygame
+
 ## Controles
 Haz clic con el botón izquierdo del ratón para interactuar con el juego.
 Funcionalidad del programa
